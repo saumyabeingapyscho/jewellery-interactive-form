@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+head {
+  font-size: 16px;
+  font-family: sans-serif;
+  text-align: center;
+  word-spacing: 8px;
+}
+
+h1{
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: 400;
+  color: 	#4B3621;
+  text-align: center;
+}
+body {
+  background-image: url("https://i.pinimg.com/originals/b4/2d/58/b42d588b99be8c67ecc2c101205e6f7f.jpg");
+}
+ h2{
+  font-size: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  color: 	#3a2817;
+  text-align: center;
+ }
+.first {
+  font-size: 25px;
+  color: 	#654321;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.second {
+  font-size: 25px;
+  color: 	#654321;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.form.style{
+  font-size: 25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  text-align: center;
+  border-radius: 1%;
+  display: block; 
+
+}
